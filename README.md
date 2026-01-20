@@ -28,4 +28,3 @@ This app does not embed any API keys or authentication tokens; it uses the publi
 - **Local configuration**: `local.properties` contains only your local Android SDK path and no credentials.
 - **Secrets**: No API keys, tokens, passwords, or other secrets are hard-coded in the source under `app/src`.
 
-Before publishing, ensure `local.properties` is excluded from version control according to standard Android project practices.
